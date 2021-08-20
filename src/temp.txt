@@ -1,13 +1,1 @@
-TASK: 
-Building a button that displays number of clicks upon it.
-
-NEEDS: 
-useState, Button component, onClick and clickHandler
-
-1st imporvement:
-Put the display outside the button body
-
-2nd improvement:
-
-SCALE.-
-Reusability: Make more buttons that increment in 5, 10 and 100 the global display.
+ 

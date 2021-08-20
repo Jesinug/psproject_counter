@@ -1,4 +1,4 @@
-import React = require("react");
+import React from "react";
 
 function Button(props) {
     const handleClick = () => props.onClickFunction(props.increment);

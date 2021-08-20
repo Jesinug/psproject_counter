@@ -1,5 +1,7 @@
-import React from "react";
-import Button from "./Components/Button";  n
+import {useState, React} from "react";
+import Button from "./Components/Button";
+import Display from "./Components/Display";
+
 
 
 function App() {
