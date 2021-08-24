@@ -1,0 +1,8 @@
+.btn {
+    font-size: large;
+    width: 70px;
+    border-radius: 4px;
+    border-style: none;
+    background-color:rgb(135, 202, 222);
+    box-shadow: lightgray 3px 1px 10px;
+}
