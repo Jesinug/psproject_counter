@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# A counter multibutton app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and materialize in Github Pages.
+
+Build 100% with React.
+Minimal styles with CSS.
 
 ## Available Scripts
 
