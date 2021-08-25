@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/psproject_counter/static/css/main.d8568efa.chunk.css",
+    "main.js": "/github.io/psproject_counter/static/js/main.65378251.chunk.js",
+    "main.js.map": "/github.io/psproject_counter/static/js/main.65378251.chunk.js.map",
+    "runtime-main.js": "/github.io/psproject_counter/static/js/runtime-main.32d7f2bb.js",
+    "runtime-main.js.map": "/github.io/psproject_counter/static/js/runtime-main.32d7f2bb.js.map",
+    "static/js/2.afb590ad.chunk.js": "/github.io/psproject_counter/static/js/2.afb590ad.chunk.js",
+    "static/js/2.afb590ad.chunk.js.map": "/github.io/psproject_counter/static/js/2.afb590ad.chunk.js.map",
+    "static/js/3.237431ed.chunk.js": "/github.io/psproject_counter/static/js/3.237431ed.chunk.js",
+    "static/js/3.237431ed.chunk.js.map": "/github.io/psproject_counter/static/js/3.237431ed.chunk.js.map",
+    "index.html": "/github.io/psproject_counter/index.html",
+    "static/css/main.d8568efa.chunk.css.map": "/github.io/psproject_counter/static/css/main.d8568efa.chunk.css.map",
+    "static/js/2.afb590ad.chunk.js.LICENSE.txt": "/github.io/psproject_counter/static/js/2.afb590ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32d7f2bb.js",
+    "static/js/2.afb590ad.chunk.js",
+    "static/css/main.d8568efa.chunk.css",
+    "static/js/main.65378251.chunk.js"
+  ]
+}
