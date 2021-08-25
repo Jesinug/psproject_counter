@@ -1,8 +1,8 @@
-# A counter multibutton app
+# An multibutton app #justForKicks
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and materialize in Github Pages.
 
-Build 100% with React.
+Build 100% with React's hooks.
 Minimal styles with CSS.
 
 ## Available Scripts
