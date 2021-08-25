@@ -6,7 +6,7 @@ function Header(props) {
     
     return (
         <>
-            <div className="title">MathButtons #justForKicks</div>
+            <div className="title"><strong>MathButtons</strong>#justForKicks</div>
             <div className="tracker">{handleTracker}</div>
         </>
     )
