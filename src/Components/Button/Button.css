@@ -1,8 +1,22 @@
-.btn {
+.adding-btn {
+    align-items: center;
     font-size: large;
     width: 70px;
-    border-radius: 4px;
+    height: 70px;
+    border-radius: 8px;
+    border-style:hidden;
     border-style: none;
     background-color:rgb(135, 202, 222);
-    box-shadow: lightgray 3px 1px 10px;
+    box-shadow: rgb(8, 9, 15) 9px 9px 20px;
+}
+
+.substracting-btn {
+    align-items: center;
+    font-size: large;
+    width: 70px;
+    height: 70px;
+    border-radius: 8px;
+    border-style:hidden;
+    background-color:rgb(218, 105, 105);
+    box-shadow: rgb(8, 9, 15) 9px 9px 20px;
 }
